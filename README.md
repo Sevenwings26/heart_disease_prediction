@@ -54,8 +54,6 @@ The goal is to predict whether a patient has heart disease based on clinical att
 
 ## 📊 Correlation Analysis
 
-## 📊 Correlation Analysis
-
 ```python
 correlation['HeartDisease'].sort_values(ascending=False)
 ````
