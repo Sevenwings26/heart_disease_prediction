@@ -138,3 +138,6 @@ Excellent — these results show that **hyperparameter tuning significantly impr
 * Jupyter Notebook
 
 ````
+
+For more info:📧 - iarowosola@yahoo.com
+LinkedIn - https://www.linkedin.com/in/iyanuarowosola/
